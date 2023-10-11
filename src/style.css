@@ -1,0 +1,8 @@
+.card {
+    transition: all 0.4s;
+    margin-bottom: 30px;
+}
+.card:hover {
+    transform: scale(1.08);
+    box-shadow: 6px 6px 30px 7px rgb(48, 45, 54);
+}
